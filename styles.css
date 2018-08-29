@@ -1,0 +1,16 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  color: Purple;
+}
+
+.container {
+  background-color: gold;
+}
+
+.navbar li {
+  display: inline;
+  background-image: url(https://www.publicdomainpictures.net/pictures/270000/velka/trippy-colorful-background.jpg);
+}
