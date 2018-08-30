@@ -14,3 +14,19 @@ h1 {
   display: inline;
   background-image: url(https://www.publicdomainpictures.net/pictures/270000/velka/trippy-colorful-background.jpg);
 }
+
+.login {
+  float: right;
+}
+
+.login a {
+  cursor: pointer;
+  margin-right: 30px;
+  padding: 8px 18px;
+  border-style: dotted;
+  position: relative;
+}
+
+.login a:active {
+  top: 5px;
+}
