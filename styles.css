@@ -30,3 +30,15 @@ h1 {
 .login a:active {
   top: 5px;
 }
+
+#purple {
+  background-image: url("./images/purplepic.jpg");
+}
+
+#gold {
+  background-image: url("./images/goldpic.jpg");
+}
+
+#pink {
+  background-image: url("./images/pinkpic.png");
+}
